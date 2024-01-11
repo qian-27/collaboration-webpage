@@ -4,10 +4,10 @@ This website is a collaboration between students from Indiana University (IUPUI)
 
 # Visuals
 
-## Desktop Viewport
+### Desktop Viewport
 ![trim 13A84656-30C2-4019-B719-DF205CF47169](https://github.com/qian-27/Collaboration-Website/assets/83451817/6338e8c5-36b9-437d-8a43-8996ff405813)
 
-## Phone Viewport
+### Phone Viewport
 ![trim BC6B2808-A544-4C7E-B784-5C1620B71685](https://github.com/qian-27/Collaboration-Website/assets/83451817/cb88544c-c9fa-4031-b761-3e1c52b09854)
 
 
